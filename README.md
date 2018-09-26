@@ -8,4 +8,6 @@ Criar um projeto no Android Studio com o nome de "Projeto" e package br.unicamp.
 
 Copiar os arquivos build.gradle e google-services para a pasta app;
 
-Copiar o arquivo build(root).gradle para a pasta root do seu app e alterar seu nome para build.gradle.
+Copiar o arquivo build(root).gradle para a pasta root do seu app e alterar seu nome para build.gradle;
+
+Substituir a pasta src da aplicação.
